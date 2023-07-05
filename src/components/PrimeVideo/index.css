@@ -1,0 +1,30 @@
+* {
+  font-family: Roboto;
+  color: #ffffff;
+}
+
+.primeBgContainer {
+  background-color: #000000;
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 10px;
+}
+
+.primePoster {
+  width: 100%;
+}
+
+.movieContainer {
+  width: 90%;
+  margin: 10px;
+}
+
+.MoviesHeading {
+  align-self: flex-start;
+  font-size: 25px;
+  padding-left: 15px;
+}

@@ -1,0 +1,40 @@
+.popupContainer {
+  width: 80%;
+}
+
+.triggerButton {
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.popupCardContainer {
+  background-color: #ffffff;
+  width: 600px;
+  height: 450px;
+  border-radius: 15px;
+}
+
+.modalContainer {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+
+.closeButton {
+  background-color: transparent;
+  border: none;
+  height: 28px;
+  width: 28px;
+}
+
+.closeIcon {
+  color: #231f20;
+}
+
+.videoContainer {
+  margin-bottom: 15px;
+}
